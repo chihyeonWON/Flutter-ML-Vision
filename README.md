@@ -1,16 +1,8 @@
-# mlvision
+# ML-Vision
 
-A new Flutter project.
+### 필요한 의존성 추가
+```
+추출할 이미지를 선택하거나 찍기 위한 image_picker와 
+사진에서 글자를 추출하기 위한 google_ml_vision 패키지 두 개를 설치하여 dependencies에 추가한다.
+```
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
